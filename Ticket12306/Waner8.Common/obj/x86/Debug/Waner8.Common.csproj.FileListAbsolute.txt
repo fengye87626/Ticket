@@ -1,0 +1,9 @@
+D:\Ticket12306-master\Ticket12306-master\Waner8.Common\obj\x86\Debug\Waner8.Common.Properties.Resources.resources
+D:\Ticket12306-master\Ticket12306-master\Waner8.Common\obj\x86\Debug\Waner8.Common.csproj.GenerateResource.Cache
+D:\Ticket12306-master\Ticket12306-master\Waner8.Common\bin\Debug\Waner8.Common.dll.config
+D:\Ticket12306-master\Ticket12306-master\Waner8.Common\bin\Debug\Waner8.Common.dll
+D:\Ticket12306-master\Ticket12306-master\Waner8.Common\bin\Debug\Waner8.Common.pdb
+D:\Ticket12306-master\Ticket12306-master\Waner8.Common\bin\Debug\Newtonsoft.Json.dll
+D:\Ticket12306-master\Ticket12306-master\Waner8.Common\bin\Debug\Newtonsoft.Json.xml
+D:\Ticket12306-master\Ticket12306-master\Waner8.Common\obj\x86\Debug\Waner8.Common.dll
+D:\Ticket12306-master\Ticket12306-master\Waner8.Common\obj\x86\Debug\Waner8.Common.pdb
